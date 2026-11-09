@@ -1,6 +1,13 @@
 [![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
 
-# New Relic Microservices Sandbox
+<h1 align="center">New Relic Microservices Sandbox</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-3178C6?style=for-the-badge" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/New%20Relic-0F766E?style=for-the-badge" alt="New Relic" />
+  <img src="https://img.shields.io/badge/Observability-334155?style=for-the-badge" alt="Observability" />
+</p>
 ### From zero to Observability while you brew coffee
 
 A set of Terraform modules that will deploy a fully-instrumented microservices stack using AWS and New Relic.
